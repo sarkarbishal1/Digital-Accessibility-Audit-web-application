@@ -1,5 +1,5 @@
 ### Digital-Accessibility-Audit-web-application
-### Public Website (Anonymized)
+### Public Website
 
 - Accessibility evaluation of public-facing website pages
 - WCAG 2.2 AA conformance focus
